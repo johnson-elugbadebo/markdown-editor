@@ -1,6 +1,6 @@
 # Firesale
 
-This is an build during the [Electron-v3][course] course on [Frontend Masters][fem].
+This is an application build during the [Electron-v3][course] course on [Frontend Masters][fem].
 
 ## Setup
 
